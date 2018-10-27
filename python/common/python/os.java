@@ -202,35 +202,35 @@ public class os extends org.python.types.Module {
     public static org.python.Object WEXITED;
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object WEXITSTATUS() {
         throw new org.python.exceptions.NotImplementedError("'WEXITSTATUS' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object WIFCONTINUED() {
         throw new org.python.exceptions.NotImplementedError("'WIFCONTINUED' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object WIFEXITED() {
         throw new org.python.exceptions.NotImplementedError("'WIFEXITED' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object WIFSIGNALED() {
         throw new org.python.exceptions.NotImplementedError("'WIFSIGNALED' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object WIFSTOPPED() {
         throw new org.python.exceptions.NotImplementedError("'WIFSTOPPED' has not been implemented");
@@ -244,14 +244,14 @@ public class os extends org.python.types.Module {
     public static org.python.Object WSTOPPED;
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object WSTOPSIG() {
         throw new org.python.exceptions.NotImplementedError("'WSTOPSIG' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object WTERMSIG() {
         throw new org.python.exceptions.NotImplementedError("'WTERMSIG' has not been implemented");
@@ -290,70 +290,70 @@ public class os extends org.python.types.Module {
     public static org.python.Object __spec__ = org.python.types.NoneType.NONE;  // TODO
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object _execvpe() {
         throw new org.python.exceptions.NotImplementedError("'_execvpe' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object _exists() {
         throw new org.python.exceptions.NotImplementedError("'_exists' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object _exit() {
         throw new org.python.exceptions.NotImplementedError("'_exit' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object _get_exports_list() {
         throw new org.python.exceptions.NotImplementedError("'_get_exports_list' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object _putenv() {
         throw new org.python.exceptions.NotImplementedError("'_putenv' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object _spawnvef() {
         throw new org.python.exceptions.NotImplementedError("'_spawnvef' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object _unsetenv() {
         throw new org.python.exceptions.NotImplementedError("'_unsetenv' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object _wrap_close() {
         throw new org.python.exceptions.NotImplementedError("'_wrap_close' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object abort() {
         throw new org.python.exceptions.NotImplementedError("'abort' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object access() {
         throw new org.python.exceptions.NotImplementedError("'access' has not been implemented");
@@ -363,42 +363,42 @@ public class os extends org.python.types.Module {
     public static org.python.Object altsep;
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object chdir() {
         throw new org.python.exceptions.NotImplementedError("'chdir' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object chflags() {
         throw new org.python.exceptions.NotImplementedError("'chflags' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object chmod() {
         throw new org.python.exceptions.NotImplementedError("'chmod' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object chown() {
         throw new org.python.exceptions.NotImplementedError("'chown' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object chroot() {
         throw new org.python.exceptions.NotImplementedError("'chroot' has not been implemented");
     }
 
     @org.python.Method(
-            __doc__ = ""
+        __doc__ = ""
     )
     public static org.python.Object close() {
         throw new org.python.exceptions.NotImplementedError("'close' has not been implemented");
